@@ -1,2 +1,4 @@
 ˆê‚©‚çn‚ß‚Ä‚İ‚é
 Github‚ª‚¤‚Ü‚­o—ˆ‚È‚¢
+.git add
+.git commit
