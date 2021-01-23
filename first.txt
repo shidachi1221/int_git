@@ -2,3 +2,4 @@
 Github‚ª‚¤‚Ü‚­o—ˆ‚È‚¢
 .git add
 .git commit
+.git rm
