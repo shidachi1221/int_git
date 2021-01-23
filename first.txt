@@ -4,3 +4,4 @@ Github‚ª‚¤‚Ü‚­o—ˆ‚È‚¢
 .git commit
 .git rm
 .git status
+.git diff
